@@ -1,6 +1,4 @@
 import React, { Component } from 'react'
-import Carousel from 'react-material-ui-carousel'
-import { Box, Typography, makeStyles } from '@material-ui/core'
 import blog from "../../../src/images/blog-img1.jpg"
 import blog8 from "../../../src/images/latest-blog8.jpg"
 import blog5 from "../../../src/images/latest-blog5.jpg"

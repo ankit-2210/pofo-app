@@ -1,7 +1,4 @@
 import React, { Component } from 'react'
-import Banner from './Banner'
-import { Box, Typography, makeStyles } from '@material-ui/core'
-import { Link } from 'react-router-dom'
 import logo from "../../../src/images/logo@2x.png"
 
 
@@ -46,7 +43,7 @@ class Navbar extends Component {
                         </a>
                     </span>
                 </div>
-            </header>
+            </header >
         )
     };
 }

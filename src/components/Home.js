@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import Navbar from './header/Navbar'
 import Banner from './header/Banner'
-import { Box, Typography, makeStyles } from '@material-ui/core'
 import About from './services/About';
 import Service from './services/Service';
 import First from './threesecondlast/First'
