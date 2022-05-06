@@ -6,7 +6,7 @@ import { Route, Switch } from "react-router-dom"
 function App() {
   return (
     <div>
-      <Home />
+      <h1>React Page</h1>
     </div>
   );
 }
