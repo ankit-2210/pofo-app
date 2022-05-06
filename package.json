@@ -22,7 +22,9 @@
     "react-scripts": "5.0.1",
     "react-tinder-card": "^1.4.5",
     "tailwindcss": "^3.0.24",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-preset-env": "^7.5.0"
   },
   "scripts": {
     "start": "craco start",
@@ -47,9 +49,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "postcss-flexbugs-fixes": "^5.0.2",
-    "postcss-preset-env": "^7.5.0"
   }
 }
