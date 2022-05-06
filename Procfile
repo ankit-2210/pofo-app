@@ -1,1 +1,1 @@
-web:node index.js
+web:craco index.js
